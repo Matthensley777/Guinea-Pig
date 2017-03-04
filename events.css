@@ -1,0 +1,12 @@
+.block {
+	display: block;
+}
+
+.section1 {
+	font-weight: bold;
+}
+
+.section2 {
+	font-weight: bold;
+	font-style: italic;
+}
