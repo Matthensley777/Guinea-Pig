@@ -35,7 +35,7 @@ function mouseLeave() {
 document.getElementById("section").addEventListener("click", mouseClick);
 
 function mouseClick() {
-    document.getElementById("section1").innerHTML = "you clicked on section1";
+    document.getElementById("section").innerHTML = "you clicked on section1";
 }
 
 document.getElementById("add-color").addEventListener("click", changeToBlue);
